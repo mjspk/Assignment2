@@ -1,4 +1,15 @@
-# Assignment2 Commentary
+# Assignment 2 Readme
+
+## Goal
+To develop a Deep Learning PyTorch-based tutorial that solves an interesting deep learning problem using techniques and complexity relevant to our ENSF645 course.
+
+## Objective
+To build a python/PyTorch tutorial focused on pre-processing sound data to make it ready for use in training a CNN classifier model.
+
+## Primary Libraries and Frameworks
+* PyTorch
+* Librosa
+* Scikit-learn
 
 ## Tutorial Areas of Focus and Highlights
 * Experimented with a new/unfamiliar domain (audio) and tools (e.g., Librosa library).
