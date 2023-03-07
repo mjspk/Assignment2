@@ -4,7 +4,7 @@
 To develop a Deep Learning PyTorch-based tutorial that solves an interesting deep learning problem using techniques and complexity relevant to our ENSF645 course.
 
 ## Objective
-To build a python/PyTorch tutorial focused on pre-processing sound data to make it ready for use in training a CNN classifier model.
+To build a python/PyTorch tutorial focused on pre-processing sound data to make it ready for use in training a CNN classifier model; and develop and train a CNN classifier model if time permits.
 
 ## Primary Libraries and Frameworks
 * PyTorch
@@ -15,7 +15,7 @@ To build a python/PyTorch tutorial focused on pre-processing sound data to make 
 * Experimented with a new/unfamiliar domain (audio) and tools (e.g., Librosa library).
 * Employed randomized data augmentation to expand and balance our input data.
 * Used visualizations and audio clips to better understand the input data, augmentations, and results.
-* Use of class and functions to group and encapsulate various functionalities (e.g., AudioLoader, DataBalancer, AudioModel, and Early Stopper classes).
+* Use of class and functions to group and encapsulate various functionalities (e.g., AudioLoader, DataBalancer, AudioModel, and EarlyStopper classes).
 * Extracted features using established techniques (e.g., Zero-Crossing Rate, Root Mean Squared Error, Mel Frequency Cepstral Coefficients).
 * Harnessed the power of a teammate’s home-based GPU mini-farm.
 * Analysed model performance during training, validation, and testing.
